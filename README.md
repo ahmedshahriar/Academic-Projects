@@ -5,7 +5,7 @@
 ### [Can We Predict Insomnia From Tweets?](https://ahmedshahriar.com/assets/files/Can_We_Predict_Insomnia_from_Tweets.pdf) - Undergraduate Thesis
 In  this  research,  a  hypothesis  is  being  presented  to  predict  insomnia  by  analyzing  users’tweets.  After collecting, filtering, and pre-processing the tweets, psycholinguistic patterns, i.e., word usageand semantics were extracted and fed to a classification model for insomnia prediction.
 
-The extended version of this work has been published at **Journal of Medical Internet Research** (Q1, IF-5.43). Click here to view -\
+The extended version of this work has been published at **Journal of Medical Internet Research** (Q1, IF-7.08). Click here to view -\
 [![DOI:10.2196/27613](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-1E70C2.svg)](https://doi.org/10.2196/27613)
 
 ### [Seradam (Capstone Project)](https://github.com/ahmedshahriar/Seradam "GitHub Repository") - Final Year Project
